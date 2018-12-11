@@ -9,7 +9,7 @@
 
 ## Challenge: Agrotis WebApp
 
-***Stack**: React*<br/>
+***Stack**: React, Redux*<br/>
 
 The idea is simple: you have to develop 2 screens honoring some requirements and the provided layout:
 
