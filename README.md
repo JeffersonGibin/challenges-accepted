@@ -2,12 +2,12 @@
   <img src="challenge-accepted.png" alt="CHALLENGE ACCEPTED">
 </p>
 
-> Inspired by https://github.com/LFeh/frontend-challenges
+> Inspirado por https://github.com/LFeh/frontend-challenges
 
-## Challenges
+## Desafios
 
-Just me practicing using real jobs challenges.
+Essas são as minha experiências participando de desafios reais
 
-| | Challenge | Stack | Details | Status
+| | Desafio | Tecnologia | Detalhes | Status
 |--|--|--|--|--
-01 | Weather forecast SPA | React | [More →](challenges/weather-forecast/) |  **In Developement**
+01 | Weather forecast SPA | Vue.js | [More →] (challenges/weather-forecast/) |  **Pendente**
