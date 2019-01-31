@@ -10,4 +10,4 @@ Essas são as minha experiências participando de desafios reais
 
 | | Desafio | Tecnologia | Projeto | Status
 |--|--|--|--|--
-01 | Weather forecast SPA | Vue.js | [+Detalhes →](challenges/weather-forecast/) |  **Pendente**
+01 | Encurtador de URL | Vue.js | [+Detalhes →](https://github.com/JeffersonGibin/desafio-encurtador-url) |  **Andamento**
